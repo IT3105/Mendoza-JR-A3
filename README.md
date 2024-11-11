@@ -66,14 +66,14 @@ This project allows you to manage workouts efficiently with a Flutter frontend a
 
 ![Home Page](mendozaflutter/assets/homepage.jpg)
 
-![Grid View](mendozaflutter/assetsgrid.jpg)
+![Grid View](mendozaflutter/assets/gridview.jpg)
 
-![List View](mendozaflutter/assets/list.jpg)
+![List View](mendozaflutter/assets/listview.jpg)
 
 ![Add Widget](mendozaflutter/assets/add.jpg)
 
-![Edit Widget](mendozaflutter/assets/add.jpg)
+![Edit Widget](mendozaflutter/assets/edit.jpg)
 
-![Test Run](mendozaflutter/assets/runfluttertest.jpg)
+![Test Run](mendozaflutter/assets/runflutternest.jpg)
 
-![Postman](mendozaflutter/assets/postman.jpg)
+![Postman](mendozaflutter/assets/postmansample.jpg)
