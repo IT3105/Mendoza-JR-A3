@@ -60,3 +60,20 @@ The total workout count works correctly for Delete and Edit, but requires a page
 
 #### Conclusion
 This project allows you to manage workouts efficiently with a Flutter frontend and NestJS backend, connected to a MongoDB database. It is still a work in progress with some known issues related to UI fetching and page refresh behavior.
+
+
+#### Sample Testing Photos
+
+![Home Page](assets/images/homepage.jpg)
+
+![Grid View](assets/images/grid.jpg)
+
+![List View](assets/images/list.jpg)
+
+![Add Widget](assets/images/add.jpg)
+
+![Edit Widget](assets/images/add.jpg)
+
+![Test Run](assets/images/runfluttertest.jpg)
+
+![Postman](assets/images/postman.jpg)
