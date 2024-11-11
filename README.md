@@ -64,16 +64,16 @@ This project allows you to manage workouts efficiently with a Flutter frontend a
 
 #### Sample Testing Photos
 
-![Home Page](assets/images/homepage.jpg)
+![Home Page](assets/homepage.jpg)
 
-![Grid View](assets/images/grid.jpg)
+![Grid View](assets/grid.jpg)
 
-![List View](assets/images/list.jpg)
+![List View](assets/list.jpg)
 
-![Add Widget](assets/images/add.jpg)
+![Add Widget](assets/add.jpg)
 
-![Edit Widget](assets/images/add.jpg)
+![Edit Widget](assets/add.jpg)
 
-![Test Run](assets/images/runfluttertest.jpg)
+![Test Run](assets/runfluttertest.jpg)
 
-![Postman](assets/images/postman.jpg)
+![Postman](assets/postman.jpg)
